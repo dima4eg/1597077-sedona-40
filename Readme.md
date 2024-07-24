@@ -2,7 +2,7 @@
 
 * Студент: [Дмитрий Загуменников](https://up.htmlacademy.ru/htmlcss/40/user/1597077).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
-
+* Сайт: [Sedona](https://dima4eg.github.io/1597077-sedona-40/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
